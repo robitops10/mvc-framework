@@ -1,0 +1,35 @@
+/* for chairman_message */
+.overflow_hidden_chairman {
+	height: 160px;
+	overflow: hidden;
+}
+
+/* for add_notice */
+.overflow_hidden_notice {
+	height: 125px;
+	overflow: hidden;
+}
+
+
+.bg-light-gray {
+	background-color: #333;
+}
+.bg-gray {
+	background-color: #222;
+}
+
+.border-left-bottom {
+	border-left: 1px solid #000;
+}
+
+/* 
+.carousel-control-prev-icon {
+	background: #FFF;
+	border: 3px solid #008837;
+	border-radius: 50%;
+	padding: 15px;
+}
+
+ */
+
+
